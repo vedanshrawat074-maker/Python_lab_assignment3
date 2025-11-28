@@ -1,4 +1,4 @@
-📚 Library Inventory Manager Python Lab Assignment 03 – Naman Joshi
+📚 Library Inventory Manager Python Lab Assignment 03 – vedansh rawat
 
 A simple command-line based Library Inventory Manager built using Python. This project helps manage books in a small library with features like adding books, issuing/returning books, searching, and storing records in a JSON file.
 
