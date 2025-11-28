@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Test Title",
+    "author": "Author",
+    "isbn": "ISBN-0001",
+    "status": "available"
+  },
+  {
+    "title": "CLI Test",
+    "author": "Tester",
+    "isbn": "CLI-ISBN-001",
+    "status": "available"
+  },
+  {
+    "title": "jungle book",
+    "author": "naman joshi",
+    "isbn": "12",
+    "status": "available"
+  },
+  {
+    "title": "python",
+    "author": "dhruv jaiswal",
+    "isbn": "13",
+    "status": "available"
+  }
+]
